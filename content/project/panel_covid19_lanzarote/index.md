@@ -18,7 +18,7 @@ url_video: ""
 url_source: "https://datosdelanzarote.shinyapps.io/covid19/"
 ---
 
-A contribution made with Christian González-Martel to [Cabildo de Lanzarote](http://www.cabildodelanzarote.com/), this shiny web application pursues the understanding of the situation of COVID-19 in Lanzarote. It shows the main indicators and its daily evolution.
+A contribution made with Christian González-Martel to [Cabildo de Lanzarote](http://www.cabildodelanzarote.com/). This shiny web application pursues the understanding of the situation of COVID-19 in Lanzarote. It shows the main indicators and its daily evolution.
 
 
 
