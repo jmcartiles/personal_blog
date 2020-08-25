@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eugenio-Martin, J.L. | </title>
+    <link>/author/eugenio-martin-j.l./</link>
+      <atom:link href="/author/eugenio-martin-j.l./index.xml" rel="self" type="application/rss+xml" />
+    <description>Eugenio-Martin, J.L.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
+      <title>Eugenio-Martin, J.L.</title>
+      <link>/author/eugenio-martin-j.l./</link>
+    </image>
+    
+    <item>
+      <title>The shares method for revealing latent tourism demand</title>
+      <link>/publication/2020_eugenio_martin_cazorla_artiles/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_eugenio_martin_cazorla_artiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the determinants of Airbnb location and its spatial distribution</title>
+      <link>/publication/2019_eugenio_martin_cazorla_artiles_gonzalez_martel/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_eugenio_martin_cazorla_artiles_gonzalez_martel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

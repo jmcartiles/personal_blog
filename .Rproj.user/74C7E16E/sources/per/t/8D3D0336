@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598273287960.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2096837947",
+    "id" : "8D3D0336",
+    "lastKnownWriteTime" : 1598273309,
+    "last_content_update" : 1598273309176,
+    "path" : "~/Proyectos/personal_blog/content/projects/projects.md",
+    "project_path" : "content/projects/projects.md",
+    "properties" : {
+        "cursorPosition" : "33,19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

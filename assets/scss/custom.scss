@@ -1,0 +1,58 @@
+/* Whole document */
+
+body {
+  /*
+  margin-top: 100px !important;
+  color:  #b25d08;
+  */
+  background-color:	#f0dac8;
+}
+
+/* Text */
+
+.center-text {
+  text-align: left;
+}
+
+/* nav */
+
+.navbar {
+  box-shadow: none;
+  background-color:	#f0dac8;
+}
+
+/*----NAV LINK HOVER ANIMATION -----*/
+/* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
+
+/* stroke */
+
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .5s;
+}
+
+a.nav-link {
+  position: relative;
+}
+
+a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+  color: transparent;
+  background: #b25d08;
+  height: 2px;
+}
+
+a.nav-link:hover:after {
+  width: 80%;
+}
+
+
+
+

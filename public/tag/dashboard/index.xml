@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard | </title>
+    <link>/tag/dashboard/</link>
+      <atom:link href="/tag/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dashboard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
+      <title>Dashboard</title>
+      <link>/tag/dashboard/</link>
+    </image>
+    
+    <item>
+      <title>Panel de indicadores de COVID-19 en Lanzarote</title>
+      <link>/project/panel_covid19_lanzarote/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/panel_covid19_lanzarote/</guid>
+      <description>&lt;p&gt;A contribution made with Christian González-Martel to 
+&lt;a href=&#34;http://www.cabildodelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cabildo de Lanzarote&lt;/a&gt;, this shiny web application pursues the understanding of the situation of COVID-19 in Lanzarote. It shows the main indicators and its daily evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panel de indicadores de turismo de Lanzarote</title>
+      <link>/project/panel_turismo_lanzarote/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/panel_turismo_lanzarote/</guid>
+      <description>&lt;p&gt;This project pursues the improvement of tourism information to Lanzarote. With this objective a shiny web application was developed. The application collects data from 
+&lt;a href=&#34;http://www.gobiernodecanarias.org/istac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAC&lt;/a&gt; concerning to demand and supply of tourism in Canary Island and specially in Lanzarote. The data povided by the web application is related to arrivals, expenditure and occupation.&lt;/p&gt;
+&lt;p&gt;This project is leaded by 
+&lt;a href=&#34;http://www.datosdelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de datos de Lanzarote&lt;/a&gt; the department of island council which provides with statistical information to Lanzarote and 
+&lt;a href=&#34;https://www.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad de Las Palmas de Gran Canaria&lt;/a&gt; and funded by 
+&lt;a href=&#34;http://www.cabildodelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cabildo de Lanzarote&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The work was done with Christian González-Martel.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

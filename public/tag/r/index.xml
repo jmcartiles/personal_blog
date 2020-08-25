@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | </title>
+    <link>/tag/r/</link>
+      <atom:link href="/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>igebaser</title>
+      <link>/project/igebaser/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/igebaser/</guid>
+      <description>&lt;h2 id=&#34;ige&#34;&gt;IGE&lt;/h2&gt;
+&lt;p&gt;The Galician Statistics Institute (
+&lt;a href=&#34;https://www.ige.eu/web/index.jsp?idioma=gl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Galego de Estatística, IGE&lt;/a&gt;) is an autonomous body of the Xunta de Galicia created in 1988 and which is governed basically by Law 9/1988 on Statistics of Galicia. In its mission to promote the development of the statistical system of the Autonomous Community must provide services of collection and dissemination of available statistical documentation, develop databases of public interest, analyze the needs and evolution of the demand for statistics and ensure their dissemination.&lt;/p&gt;
+&lt;h2 id=&#34;igebaser&#34;&gt;igebaser&lt;/h2&gt;
+&lt;p&gt;The igebaser R-package allows researchers to quickly search and download the data of their particular interest in a programmatic and reproducible fashion; this facilitates a seamless integration into their workflow and allows analysis to be quickly rerun on different areas of interest and with realtime access to the latest available data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>istacbaser</title>
+      <link>/project/istacbaser/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/istacbaser/</guid>
+      <description>&lt;h2 id=&#34;istac&#34;&gt;ISTAC&lt;/h2&gt;
+&lt;p&gt;The Canary Islands Statistics Institute (
+&lt;a href=&#34;http://www.gobiernodecanarias.org/istac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Canario de Estadítica, ISTAC&lt;/a&gt;) is the central organ of the autonomous statistical system and official research center of the Government of the Canary Islands, created and regulated by Law 1/1991 of 28 January, Statistics of the Autonomous Community of the Canary Islands.&lt;/p&gt;
+&lt;h2 id=&#34;istacbaser&#34;&gt;istacbaser&lt;/h2&gt;
+&lt;p&gt;The istacbaser R-package allows researchers to quickly search and download the data of their particular interest in a programmatic and reproducible fashion; this facilitates a seamless integration into their workflow and allows analysis to be quickly rerun on different areas of interest and with realtime access to the latest available data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
