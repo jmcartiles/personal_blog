@@ -19,9 +19,9 @@ url_video: ""
 url_source: "https://datosdelanzarote.shinyapps.io/turismo_dashboard/"
 ---
 
-This project pursues the improvement of tourism information to Lanzarote. With this objective a shiny web application was developed. The application collects data from [ISTAC](http://www.gobiernodecanarias.org/istac/) concerning to demand and supply of tourism in Canary Island and specially in Lanzarote. The data povided by the web application is related to arrivals, expenditure and occupation.
+This project pursues the improvement of tourism information to Lanzarote. A shiny web application is developed to collects data from [ISTAC](http://www.gobiernodecanarias.org/istac/) concerning demand and supply of tourism in Canary Islands and specially in Lanzarote. The data povided by the web application is related to arrivals, expenditure and occupation.
 
-This project is leaded by [Centro de datos de Lanzarote](http://www.datosdelanzarote.com/) the department of island council which provides with statistical information to Lanzarote and [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/) and funded by [Cabildo de Lanzarote](http://www.cabildodelanzarote.com/).
+This project is leaded by [Centro de datos de Lanzarote](http://www.datosdelanzarote.com/) which is the departament of Island Council which provides with statistical information to Lanzarote and [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/) and funded by [Cabildo de Lanzarote](http://www.cabildodelanzarote.com/).
 
 The work was done with Christian González-Martel.
 
