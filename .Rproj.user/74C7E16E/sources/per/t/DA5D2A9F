@@ -13,7 +13,7 @@
     "project_path" : "config/_default/params.toml",
     "properties" : {
         "cursorPosition" : "95,232",
-        "scrollLine" : "79"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

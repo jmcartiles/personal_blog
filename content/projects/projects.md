@@ -26,6 +26,10 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "CGE"
+    tag = "CGE"
+
+  [[content.filter_button]]
     name = "Dashboard"
     tag = "Dashboard"
     
