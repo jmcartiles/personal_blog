@@ -1,9 +1,9 @@
 {
-    "path" : "~/Proyectos/personal_blog/content/project/panel_turismo_lanzarote",
-    "sortOrder" : [
+    "path": "~/Proyectos/personal_blog/content/project/tourism_demand_model_covid19",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "ascending": true,
+            "columnIndex": 2
         }
     ]
 }

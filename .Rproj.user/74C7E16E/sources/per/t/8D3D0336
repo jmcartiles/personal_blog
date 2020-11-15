@@ -1,25 +1,24 @@
 {
-    "collab_server" : "",
-    "contents" : "",
-    "created" : 1598273287960.000,
-    "dirty" : false,
-    "encoding" : "UTF-8",
-    "folds" : "",
-    "hash" : "2230714905",
-    "id" : "8D3D0336",
-    "lastKnownWriteTime" : 1598515689,
-    "last_content_update" : 1598515689030,
-    "path" : "~/Proyectos/personal_blog/content/projects/projects.md",
-    "project_path" : "content/projects/projects.md",
-    "properties" : {
-        "cursorPosition" : "35,27",
-        "scrollLine" : "16"
+    "id": "8D3D0336",
+    "path": "~/Proyectos/personal_blog/content/projects/projects.md",
+    "project_path": "content/projects/projects.md",
+    "type": "markdown",
+    "hash": "2230714905",
+    "contents": "",
+    "dirty": false,
+    "created": 1598273287960.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "cursorPosition": "35,27",
+        "scrollLine": "0"
     },
-    "read_only" : false,
-    "read_only_alternatives" : [
-    ],
-    "relative_order" : 7,
-    "source_on_save" : false,
-    "source_window" : "",
-    "type" : "markdown"
+    "folds": "",
+    "lastKnownWriteTime": 1598515689,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598515689030,
+    "read_only": false,
+    "read_only_alternatives": []
 }

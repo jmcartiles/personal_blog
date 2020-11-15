@@ -1,25 +1,24 @@
 {
-    "collab_server" : "",
-    "contents" : "",
-    "created" : 1596640153126.000,
-    "dirty" : false,
-    "encoding" : "UTF-8",
-    "folds" : "",
-    "hash" : "2862397784",
-    "id" : "E5B474F3",
-    "lastKnownWriteTime" : 1599122863,
-    "last_content_update" : 1599122863190,
-    "path" : "~/Proyectos/personal_blog/config.toml",
-    "project_path" : "config.toml",
-    "properties" : {
-        "cursorPosition" : "8,24",
-        "scrollLine" : "0"
+    "id": "E5B474F3",
+    "path": "~/Proyectos/personal_blog/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "2862397784",
+    "contents": "",
+    "dirty": false,
+    "created": 1596640153126.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "12,13",
+        "scrollLine": "15"
     },
-    "read_only" : false,
-    "read_only_alternatives" : [
-    ],
-    "relative_order" : 1,
-    "source_on_save" : false,
-    "source_window" : "",
-    "type" : "toml"
+    "folds": "",
+    "lastKnownWriteTime": 1599122863,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1599122863190,
+    "read_only": false,
+    "read_only_alternatives": []
 }
