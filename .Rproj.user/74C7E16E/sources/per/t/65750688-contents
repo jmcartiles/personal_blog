@@ -8,7 +8,6 @@ summary: Platform to develop a methodology to anticipate international tourism d
 tags:
 - Dashboard
 - IADB
-- COVID-19
 - Tourism
 title: International Tourism Demand Model
 url_code: ""

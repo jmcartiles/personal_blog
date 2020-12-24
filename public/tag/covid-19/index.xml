@@ -5,33 +5,12 @@
     <link>/tag/covid-19/</link>
       <atom:link href="/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID-19</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
       <title>COVID-19</title>
       <link>/tag/covid-19/</link>
     </image>
-    
-    <item>
-      <title>International Tourism Demand Model</title>
-      <link>/project/itdm/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/project/itdm/</guid>
-      <description>&lt;p&gt;This platform develops a methodology to anticipate international tourism demand by distinguishing the outbound market. The starting point is the construction of a baseline scenario that predicts the demand that would have occurred in 2020 and 2021 had the epidemic not existed. This baseline demand is affected by the situation with Covid-19 considering three effects:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;The date of market reactivation according to the epidemic for each pair of origin-destination (based on an epidemiological SIR model);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The reduction in income at origin and how it reduces the intention to travel (based on a panel data model);&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The reduction in confidence to travel (using post-pandemic travel surveys).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;These three effects reduce the expected pre-Covid19 demand and allow realistic adjustments according to the value of post-Covid expected demand.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Panel de indicadores de COVID-19 en Lanzarote</title>
