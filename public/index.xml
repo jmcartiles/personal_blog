@@ -5,12 +5,33 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cazorla-Artiles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
       <title>Cazorla-Artiles</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>International Tourism Demand Model</title>
+      <link>/project/itdm/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/itdm/</guid>
+      <description>&lt;p&gt;This platform develops a methodology to anticipate international tourism demand by distinguishing the outbound market. The starting point is the construction of a baseline scenario that predicts the demand that would have occurred in 2020 and 2021 had the epidemic not existed. This baseline demand is affected by the situation with Covid-19 considering three effects:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The date of market reactivation according to the epidemic for each pair of origin-destination (based on an epidemiological SIR model);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The reduction in income at origin and how it reduces the intention to travel (based on a panel data model);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The reduction in confidence to travel (using post-pandemic travel surveys).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These three effects reduce the expected pre-Covid19 demand and allow realistic adjustments according to the value of post-Covid expected demand.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The shares method for revealing latent tourism demand</title>
@@ -27,21 +48,6 @@
       <guid>/project/panel_covid19_lanzarote/</guid>
       <description>&lt;p&gt;A contribution made with Christian González-Martel to 
 &lt;a href=&#34;http://www.cabildodelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cabildo de Lanzarote&lt;/a&gt;. This shiny web application pursues the understanding of the situation of COVID-19 in Lanzarote. It shows the main indicators and its daily evolution.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Design of a Digital Tool that Facilitates Access to a Predictive Model of Tourism Demand in the Context of the Covid-19 Epidemic</title>
-      <link>/project/tourism_demand_model_covid19/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/tourism_demand_model_covid19/</guid>
-      <description>&lt;p&gt;This project pursues the improvement of tourism information to Lanzarote. A shiny web application is developed to collects data from 
-&lt;a href=&#34;http://www.gobiernodecanarias.org/istac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISTAC&lt;/a&gt; concerning demand and supply of tourism in Canary Islands and specially in Lanzarote. The data povided by the web application is related to arrivals, expenditure and occupation.&lt;/p&gt;
-&lt;p&gt;This project is leaded by 
-&lt;a href=&#34;http://www.datosdelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centro de datos de Lanzarote&lt;/a&gt; which is the departament of Island Council which provides with statistical information to Lanzarote and 
-&lt;a href=&#34;https://www.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad de Las Palmas de Gran Canaria&lt;/a&gt; and funded by 
-&lt;a href=&#34;http://www.cabildodelanzarote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cabildo de Lanzarote&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The work was done with Christian González-Martel.&lt;/p&gt;
 </description>
     </item>
     

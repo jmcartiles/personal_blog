@@ -1,0 +1,32 @@
+---
+date: "2020-12-23T00:00:00Z"
+external_link: ""
+image:
+  caption:
+  focal_point: Smart
+summary: Developing a methodology to understand tourism demand in the context of the Covid-19 epidemic and integrate this methology into a shiny web application where users could define differents scenarios and calculate the macroeconomic impact of each of them.
+tags:
+- Dashboard
+- IADB
+- COVID-19
+- Tourism
+title: International Tourism Demand Model
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_source: "https://www.iadb.org/en/sustainable-tourism/international-tourism-demand-model-itdm"
+---
+
+
+This platform develops a methodology to anticipate international tourism demand by distinguishing the outbound market. The starting point is the construction of a baseline scenario that predicts the demand that would have occurred in 2020 and 2021 had the epidemic not existed. This baseline demand is affected by the situation with Covid-19 considering three effects:
+
+1. The date of market reactivation according to the epidemic for each pair of origin-destination (based on an epidemiological SIR model);
+
+1. The reduction in income at origin and how it reduces the intention to travel (based on a panel data model);
+
+1. The reduction in confidence to travel (using post-pandemic travel surveys).
+
+These three effects reduce the expected pre-Covid19 demand and allow realistic adjustments according to the value of post-Covid expected demand.
+
+
