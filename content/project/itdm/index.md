@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption:
   focal_point: Smart
-summary: Developing a methodology to understand tourism demand in the context of the Covid-19 epidemic and integrate this methology into a shiny web application where users could define differents scenarios and calculate the macroeconomic impact of each of them.
+summary: Platform to develop a methodology to anticipate international tourism demand by distinguishing the outbound market.
 tags:
 - Dashboard
 - IADB
