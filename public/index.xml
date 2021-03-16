@@ -5,12 +5,22 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cazorla-Artiles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_2.png</url>
       <title>Cazorla-Artiles</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Simulations dashboard for IS-LM model in an open economy</title>
+      <link>/project/islm_economia_abierta/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/islm_economia_abierta/</guid>
+      <description>&lt;p&gt;This platform develops the Mundell-Fleming model, an open economy with perfect capital mobility is proposed, the fixed and flexible exchange rate scenarios are considered.&lt;/p&gt;
+&lt;p&gt;The platform supports the subject of international macroeconomics, as it allows the user to interact with it, establishing different economic policy scenarios and checking the results. The results shown are: the graphs of the IS-LM balance and the trade balance; and the main macroeconomic indicators before and after the change of scenery. In this way, the effectiveness of the different economic policies can be verified.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>International Tourism Demand Model</title>

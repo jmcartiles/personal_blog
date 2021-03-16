@@ -12,10 +12,7 @@ title = "Teaching"
 subtitle = ""
 +++
 
-Economics <br/>
-BSc in Labour Relations and Human Resources, Year 1, 1nd Term, <br/>
+International Macroeconomics <br/>
+BSc in Economics, Year 2, 2nd Term, <br/>
 Universidad de Las Palmas de Gran Canaria
 
-Applied Labour Economics <br/>
-BSc in Labour Relations and Human Resources, Year 3, 1nd Term, <br/>
-Universidad de Las Palmas de Gran Canaria
