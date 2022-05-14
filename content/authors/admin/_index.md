@@ -6,6 +6,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Universidad de Las Palmas de Gran Canaria
+    year: 2022
   - course: MSc in Tourism, Transport and Environmental Economics
     institution: Universidad de Las Palmas de Gran Canaria
     year: 2016
@@ -16,7 +17,6 @@ email: ""
 interests:
 - Tourism economics
 - Econometrics
-- CGE
 - Open data
 - Data visualization
 organizations:
