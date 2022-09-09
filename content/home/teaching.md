@@ -12,7 +12,24 @@ title = "Teaching"
 subtitle = ""
 +++
 
-International Macroeconomics <br/>
-BSc in Economics, Year 2, 2nd Term, <br/>
+**First term**
+
+Principles of Microeconomics <br/>
+BSc in Administration and Law, Year 1 <br/>
 Universidad de Las Palmas de Gran Canaria
+
+Economic Analysis <br/>
+BSc in Administration, Year 2 <br/>
+Universidad de Las Palmas de Gran Canaria
+
+**Second term**
+
+International Macroeconomics <br/>
+BSc in Economics, Year 2 <br/>
+Universidad de Las Palmas de Gran Canaria
+
+Introduction to R programming <br/>
+MSc in Economics and Business Analysis <br/>
+Universidad de Málaga
+
 

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Cazorla-Artiles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_3.png</url>
       <title>Cazorla-Artiles</title>
@@ -13,12 +13,68 @@
     </image>
     
     <item>
-      <title>Simulations dashboard for IS-LM model in an open economy</title>
-      <link>/project/islm_economia_abierta/</link>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/islm_economia_abierta/</guid>
-      <description>&lt;p&gt;This platform develops the Mundell-Fleming model, an open economy with perfect capital mobility is proposed, the fixed and flexible exchange rate scenarios are considered.&lt;/p&gt;
-&lt;p&gt;The platform supports the subject of international macroeconomics, as it allows the user to interact with it, establishing different economic policy scenarios and checking the results. The results shown are: the graphs of the IS-LM balance and the trade balance; and the main macroeconomic indicators before and after the change of scenery. In this way, the effectiveness of the different economic policies can be verified.&lt;/p&gt;
+      <title>MARCET II</title>
+      <link>/project/marcet_ii/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/project/marcet_ii/</guid>
+      <description>&lt;h1 id=&#34;ulpgc_slupng&#34;&gt;&lt;img src=&#34;ulpgc_slu.png&#34; alt=&#34;&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Promotion of whale watching ecotourism activity as a model of sustainable economic development by the protection and conservation of cetacean populations and increasing their value as a natural heritage of the Macaronesia.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The MARCET Project (MAC/1.1b/149), which ended in October 2019, was born with the aim of transferring and disseminating cutting-edge science and technology to promote the sustainable development of tourism activity associated with whale watching, by the creation and implementation of the MARCET Network, an interregional and multidisciplinary network that brings together specialized centers in monitoring and health surveillance of cetaceans, as well as operational oceanography, with the aim of integrating, harmonizing and optimizing knowledge, infrastructure and good practices in the region.&lt;/p&gt;
+&lt;p&gt;Thanks to the tool that the already created MARCET Network represents, the harmonization of work protocols and their integration to protect and conserve the cetacean populations of Macaronesia from a multidisciplinary point of view, as well as the knowledge acquired about the current situation of the tourism sector associated with the observation activity of these species in the region, this new initiative, the MARCET II Project, was born with the aim of increasing the value of mentioned activity as a model of sustainable economic development in the Macaronesian archipelagos (Azores, Madeira, Canary Islands and Cape Verde), thus promoting the ecotourism market niche that this activity entails, and, at the same time, establishing sustainability criteria applied to the resident cetacean species that serve as tourist attractions.&lt;/p&gt;
+&lt;p&gt;For this, this new Project is technically structured in three specific objectives: the first one (O.E.1), considered key for the establishment of ecological and environmental sustainability criteria, integrates the use of advanced operational oceanography techniques, as well as monitoring and health surveillance of resident cetaceans in marine protected areas and also of special interest for carrying out mentioned ecotourism activity in Macaronesia, using the bottlenose dolphin (Tursiops truncatus) and the short-finned pilot whale (Globicephala macrorhynchus) as the main indicator species, to assess risk factors of anthropic origin linked to these marine areas.&lt;/p&gt;
+&lt;p&gt;The other two objectives (O.E.2 and O.E. 3) are aimed at enhancing the value of cetaceans as a natural heritage and as a differentiated economic resource of special importance for the associated ecotourism sector in the Macaronesian region. However, the achievement of this purpose is technically approached from two different perspectives, while O.E.2 focuses on disseminating information about the diversity of cetacean species existing in the region and raising awareness about the importance of protecting and conserving the marine areas where they reside, O.E.3, focuses directly on strengthening the business activity of cetacean observation as a model of sustainable economic development in the Macaronesian region.&lt;/p&gt;
+&lt;p&gt;In summary, the assessment of the impacts generated by human activities on specific marine areas by the ecological, health and oceanographic studies proposed in the MARCET II Project, will help to implement actions aimed at the protection and conservation of resident cetacean groups of these areas and, by extension, of the whole marine ecosystem on which they depend, but, above all, they will be useful for establishing ways to build a model of sustainable economic development that guarantees a quality of life for all species that inhabit the Macaronesian region, including the human one.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles of Microeconomics learning panel</title>
+      <link>/project/dashboard_principios_microeconomia/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/project/dashboard_principios_microeconomia/</guid>
+      <description>&lt;p&gt;This platform supports the teaching of microeconomics.&lt;/p&gt;
+&lt;p&gt;It allows the user to interact configuring scenarios of economic policies and check the results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of Airbnb in Euskadi</title>
+      <link>/project/airbnb_pais_vasco/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/project/airbnb_pais_vasco/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;iseak_ulpgc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this study is to analyse the impact of Airbnb in Euskadi.&lt;/p&gt;
+&lt;p&gt;This study is funded by Gobierno del País Vasco.&lt;/p&gt;
+&lt;p&gt;The study was conducted by a collaboration of 
+&lt;a href=&#34;https://iseak.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundación ISEAK&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad de Las Palmas de Gran Canaria&lt;/a&gt;, where I participate with professor 
+&lt;a href=&#34;https://personales.ulpgc.es/jljimenez.daea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juan Luis Jiménez González&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomics learning panel</title>
+      <link>/project/dashboard_macroeconomia/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/project/dashboard_macroeconomia/</guid>
+      <description>&lt;p&gt;This platform supports the teaching of macroeconomics.&lt;/p&gt;
+&lt;p&gt;It facilitates the access to updated macroeconomic indicators.&lt;/p&gt;
+&lt;p&gt;It allows the user to interact configuring scenarios of economic policies and check the results according to different macroeconomic models.&lt;/p&gt;
+&lt;p&gt;The platform has been developed with the colaboration of 
+&lt;a href=&#34;https://personales.ulpgc.es/jeugenio.daea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juan Luis Eugenio Martí&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal cartography of transport infrastructures in the Canary Islands</title>
+      <link>/project/cartografia_canarias/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/project/cartografia_canarias/</guid>
+      <description>&lt;p&gt;It carries out a cartography of the existing road and port infrastructures in the Canary Islands.&lt;/p&gt;
+&lt;p&gt;The project was funded by Gobierno de Canarias.&lt;/p&gt;
+&lt;p&gt;This project was realized with Francisco 
+&lt;a href=&#34;https://javiercampos.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Javier Campos Méndez&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/view/carmengarciagalindo/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carmen García Galindo&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/tag/teaching/</link>
       <atom:link href="/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
@@ -13,12 +13,38 @@
     </image>
     
     <item>
-      <title>Simulations dashboard for IS-LM model in an open economy</title>
-      <link>/project/islm_economia_abierta/</link>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/islm_economia_abierta/</guid>
-      <description>&lt;p&gt;This platform develops the Mundell-Fleming model, an open economy with perfect capital mobility is proposed, the fixed and flexible exchange rate scenarios are considered.&lt;/p&gt;
-&lt;p&gt;The platform supports the subject of international macroeconomics, as it allows the user to interact with it, establishing different economic policy scenarios and checking the results. The results shown are: the graphs of the IS-LM balance and the trade balance; and the main macroeconomic indicators before and after the change of scenery. In this way, the effectiveness of the different economic policies can be verified.&lt;/p&gt;
+      <title>Principles of Microeconomics learning panel</title>
+      <link>/project/dashboard_principios_microeconomia/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/project/dashboard_principios_microeconomia/</guid>
+      <description>&lt;p&gt;This platform supports the teaching of microeconomics.&lt;/p&gt;
+&lt;p&gt;It allows the user to interact configuring scenarios of economic policies and check the results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomics learning panel</title>
+      <link>/project/dashboard_macroeconomia/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/project/dashboard_macroeconomia/</guid>
+      <description>&lt;p&gt;This platform supports the teaching of macroeconomics.&lt;/p&gt;
+&lt;p&gt;It facilitates the access to updated macroeconomic indicators.&lt;/p&gt;
+&lt;p&gt;It allows the user to interact configuring scenarios of economic policies and check the results according to different macroeconomic models.&lt;/p&gt;
+&lt;p&gt;The platform has been developed with the colaboration of 
+&lt;a href=&#34;https://personales.ulpgc.es/jeugenio.daea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juan Luis Eugenio Martí&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal cartography of transport infrastructures in the Canary Islands</title>
+      <link>/project/cartografia_canarias/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/project/cartografia_canarias/</guid>
+      <description>&lt;p&gt;It carries out a cartography of the existing road and port infrastructures in the Canary Islands.&lt;/p&gt;
+&lt;p&gt;The project was funded by Gobierno de Canarias.&lt;/p&gt;
+&lt;p&gt;This project was realized with Francisco 
+&lt;a href=&#34;https://javiercampos.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Javier Campos Méndez&lt;/a&gt; and 
+&lt;a href=&#34;https://sites.google.com/view/carmengarciagalindo/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carmen García Galindo&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

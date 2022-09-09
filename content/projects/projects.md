@@ -37,6 +37,13 @@ subtitle = ""
     name = "Software"
     tag = "Software"
     
+  [[content.filter_button]]
+    name = "Tourism"
+    tag = "Tourism"
+
+  [[content.filter_button]]
+    name = "Teaching"
+    tag = "Teaching"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

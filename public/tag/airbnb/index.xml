@@ -5,12 +5,27 @@
     <link>/tag/airbnb/</link>
       <atom:link href="/tag/airbnb/index.xml" rel="self" type="application/rss+xml" />
     <description>Airbnb</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/EITT%20logo_hu3c46a502bedc4e379e43c7b35d8f26ca_249766_512x512_fill_lanczos_center_3.png</url>
       <title>Airbnb</title>
       <link>/tag/airbnb/</link>
     </image>
+    
+    <item>
+      <title>The impact of Airbnb in Euskadi</title>
+      <link>/project/airbnb_pais_vasco/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/project/airbnb_pais_vasco/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;iseak_ulpgc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this study is to analyse the impact of Airbnb in Euskadi.&lt;/p&gt;
+&lt;p&gt;This study is funded by Gobierno del País Vasco.&lt;/p&gt;
+&lt;p&gt;The study was conducted by a collaboration of 
+&lt;a href=&#34;https://iseak.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundación ISEAK&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ulpgc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad de Las Palmas de Gran Canaria&lt;/a&gt;, where I participate with professor 
+&lt;a href=&#34;https://personales.ulpgc.es/jljimenez.daea/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juan Luis Jiménez González&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On the determinants of Airbnb location and its spatial distribution</title>
